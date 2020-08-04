@@ -1,3 +1,7 @@
-# Welcome to my blog
+# Notes
 
-I'm glad you are here. I plan to talk about ...
+Editing pages on Github is easy.
+
+# Projects
+
+This is my other project, [github-slideshow](https://github.com/sigtrap1024/github-slideshow)
