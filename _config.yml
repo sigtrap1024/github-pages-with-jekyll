@@ -8,3 +8,6 @@ github_username:  sigtrap1024 # DO NOT include the @ character, or else the buil
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
+
+plugins:
+ - jekyll-feed
